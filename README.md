@@ -20,3 +20,8 @@ After running, the application will ask to press '1' for Face Detection or '2':F
 
 
 
+**Sample result**
+
+<img src="./sample_result.png" alt="alt text" width="200"/>
+
+I just highlight my eyes a bit, I don't want to scare you! lol.
