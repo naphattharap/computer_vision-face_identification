@@ -9,6 +9,10 @@ After running, the application will ask to press '1' for Face Detection or '2':F
 
 **2. Face Identification**
 - In case '2' is selected, the system will predict detected faces on the camera. It shows face bouding box and predicted ID and confidence value.
+
+**Training model**
+
+Inside the package 'model_building', there is a module 'modeling', run the file to train the model with your dataset and it will save a trained model to a specified file name ex. face_recognizer_model.yml
 	
 **Others**
 - Press 'ESC' to exit program and close the camera.
