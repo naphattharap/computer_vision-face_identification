@@ -6,6 +6,7 @@ After running, the application will ask to press '1' for Face Detection or '2':F
 **1. Face Detection**
 - In case '1' is selected, it will ask you to enter the ID of user who the face on camera will be photographed. 
 - Press 's' to save detected face to the storage and it will be used as a dataset.
+
 **2. Face Identification**
 - In case '2' is selected, the system will predict detected faces on the camera. It shows face bouding box and predicted ID and confidence value.
 	
