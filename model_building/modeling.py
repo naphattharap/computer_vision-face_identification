@@ -1,8 +1,8 @@
-'''
-Created on Nov 16, 2019
+#!/usr/bin/env python
 
-@author: naphatthara
-'''
+__author__ = "Naphatthara P."
+__version__ = "1.0.0"
+
 import os
 import cv2 as cv
 import numpy as np

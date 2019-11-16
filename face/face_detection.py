@@ -1,4 +1,7 @@
 #!/usr/bin/env python
+__author__ = "Naphatthara P."
+__version__ = "1.0.0"
+
 """
 In case of error: error: (-215:Assertion failed) !empty() in function 'detectMultiScale'
 
