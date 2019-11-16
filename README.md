@@ -28,4 +28,4 @@ Inside the package 'model_building', there is a module 'modeling', run the file 
 
 <img src="./sample_result.png" alt="alt text" width="200"/>
 
-I just highlight my eyes a bit, I don't want to scare you! lol.
+I just highlighted my eyes a bit, I don't want to scare you! lol.
